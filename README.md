@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nononoah8
 - 👀 I’m interested in learning Backend Devleopent
-- 🌱 I’m currently learning VueJS and FastAPI with PostgreSQL
+- 🌱 I’m currently learning VueJS, C++, Python, and Compilers
 - 💞️ I’m looking to collaborate on anything
 
 <!---
